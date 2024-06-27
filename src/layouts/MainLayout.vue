@@ -7,10 +7,9 @@
 </template>
 
 <script setup>
-import { ref } from "vue";
-import EssentialLink from "components/EssentialLink.vue";
+import { ref } from 'vue';
 
 defineOptions({
-  name: "MainLayout",
+  name: 'MainLayout'
 });
 </script>
